@@ -1,0 +1,6 @@
+.DS_Store
+libraries/.DS_Store
+libraries/adxl345driver/.DS_Store
+libraries/bma180/.DS_Store
+libraries/FreeIMU/.DS_Store
+libraries/HMC58X3/.DS_Store
